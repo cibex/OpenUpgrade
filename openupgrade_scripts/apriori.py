@@ -11,13 +11,17 @@ renamed_modules = {
     "mail_client_extension": "mail_plugin",
     "payment_ingenico": "payment_ogone",
     "website_mail_channel": "website_mail_group",
+    # OCA/account-fiscal-rule
+    "l10n_eu_oss": "l10n_eu_oss_oca",
     # OCA/e-commerce
     "website_sale_attribute_filter_order": "website_sale_product_attribute_filter_order",
     # OCA/project
     "project_stage_state": "project_task_stage_state",
     "project_category": "project_type",
     # OCA/sale-promotion
+    "sale_coupon_chatter": "coupon_chatter",
     "sale_coupon_mass_mailing": "coupon_mass_mailing",
+    "sale_coupon_portal": "coupon_portal",
     # OCA/stock-logistics-worehouse
     "stock_inventory_cost_info": "stock_quant_cost_info",
     # OCA/...
@@ -67,6 +71,7 @@ merged_modules = {
     # OCA/stock-logistics-reporting
     "stock_inventory_valuation_pivot": "stock_account",
     # OCA/stock-logistics-warehouse
+    "stock_inventory_exclude_sublocation": "stock",
     "stock_orderpoint_manual_procurement": "stock",
     # OCA/stock-logistics-workflow
     "stock_deferred_assign": "stock",
