@@ -20,6 +20,7 @@ renamed_modules = {
     "project_category": "project_type",
     # OCA/sale-promotion
     "sale_coupon_chatter": "coupon_chatter",
+    "sale_coupon_commercial_partner_applicability": "coupon_commercial_partner_applicability",
     "sale_coupon_mass_mailing": "coupon_mass_mailing",
     "sale_coupon_portal": "coupon_portal",
     # OCA/stock-logistics-worehouse
